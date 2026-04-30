@@ -36,7 +36,7 @@ Con el servidor activo, la documentacion se puede probar desde:
 Las capturas de pantalla solicitadas para la actividad se guardan en la carpeta `docs/`.
 
 ![Swagger UI con endpoints](docs/swagger-ui-endpoints.png)
-![Swagger UI probando endpoint](docs/swagger-ui-try-endpoint.png)
+![Respuesta del endpoint de temperaturas](docs/swagger-api-response.png)
 
 ## Revision final
 
